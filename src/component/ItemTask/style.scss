@@ -1,0 +1,13 @@
+li{
+  list-style: none;
+  .roundcheck{
+    color: rgb(158, 22, 22);
+  }
+  .circlecheck{
+    color: rgb(33, 136, 55);
+  }
+  .item-task{
+    border-radius: 1px;
+  }
+}
+
